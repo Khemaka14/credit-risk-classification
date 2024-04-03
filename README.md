@@ -14,4 +14,4 @@ Once our model is ready we evaluate the model’s performance by doing the follo
 
 - Print the classification report.
 
-Our logistic regression model was able to predict a healthy loan ("0") with 100%. Whereas the model predicts high-risk loans ("1") with a 85%.
+Our logistic regression model was able to predict a healthy loan ("0") with 100% precision. Whereas the model predicts high-risk loans ("1") with a 85% precision.
